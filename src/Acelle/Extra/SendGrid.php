@@ -1,6 +1,6 @@
 <?php
 
-namespace Acelle\Extra;
+namespace Ace\Extra;
 
 class SendGrid
 {
